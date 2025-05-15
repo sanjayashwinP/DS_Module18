@@ -1,5 +1,5 @@
 # Ex27 Kruskal’s Algorithm
-## DATE:5/5/25
+## DATE:05/05/25
 ## AIM:
 To write a C program to implement Kruskal's Algorithm for finding minimum cost
 
